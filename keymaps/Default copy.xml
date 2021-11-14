@@ -1,0 +1,67 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="ConvertToUnixLineSeparators">
+    <keyboard-shortcut first-keystroke="shift ctrl alt l" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
+  <action id="EditorNextWord" />
+  <action id="EditorPreviousWord" />
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+    <keyboard-shortcut first-keystroke="alt f3" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="IlluminatedCloud.SaveAll">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="NextTab" />
+  <action id="ParserActionId" />
+  <action id="PreviousTab" />
+  <action id="SaveAll" />
+  <action id="ShowColorPicker">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="ShowReformatFileDialog" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="WebDeployment.BrowseServers">
+    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
+  </action>
+  <action id="WebDeployment.Configuration">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+</keymap>
