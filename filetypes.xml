@@ -4,7 +4,10 @@
     <extensionMap>
       <mapping pattern="asdf" type="AUTO_DETECTED" />
       <mapping pattern="data_utils.py" type="AUTO_DETECTED" />
+      <mapping ext="log" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="log" approved="true" type="ANSI Aware" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
     </extensionMap>
   </component>
